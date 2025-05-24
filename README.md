@@ -1,4 +1,5 @@
 # AllMetrics-A-Unified-Python-Library-for-Standardized-Metric-Evaluation-in-Machine-Learning
+ArXiv: https://arxiv.org/abs/2505.15931
 
 Python Version 3.11.12
 
