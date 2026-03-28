@@ -54,6 +54,12 @@ Segmentation Example
 * **Segmentation**:	dice_score, iou_score, sensitivity, specificity, precision, hausdorff_distance
 * **Image-to-Image Translation**:	ssim, psnr
 ---
+### Maintenance
+For technical support and maintenance inquiries, please contact:
+
+Dr. Mohammad R. Salmanpour (Team Lead)
+msalman@bccrc.ca – m.salmanpoor66@gmail.com – m.salmanpour@ubc.ca
+---
 **Documentation**
 
 Full documentation available at: Coming soon.
